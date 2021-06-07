@@ -28,9 +28,9 @@ The user is then required to enter npm run seed in the CLI to send the data to t
 Trevor Bruce
 
 ## Demo
-<a href="_" src="https://drive.google.com/file/d/1jrvZum2JCE81AWDCZoxPK4RrJPuswEZs/view">Video Demonstration</a>
+<a href="https://drive.google.com/file/d/1jrvZum2JCE81AWDCZoxPK4RrJPuswEZs/view">Video Demonstration</a>
 
-
+[!Video Walkthrough(https://drive.google.com/file/d/1jrvZum2JCE81AWDCZoxPK4RrJPuswEZs/view)]
 
 ## Contact
 
